@@ -22,24 +22,24 @@ Inside of your Astro project, you'll see the following folders and files:
 │   └── favicon.svg
 ├── src
 │   ├── assets
-│   │   └── astro.svg
+│   │   ├── astro.svg
 │   │   └── background.svg
 │   ├── components
-│   │   └── Portfolio.astro
-│   │   └── Test.astro
+│   │   ├── Portfolio.astro
+│   │   ├── Test.astro
 │   │   └── Welcome.astro
 │   ├── layouts
 │   │   └── Layout.astro
 │   └── pages
-│   │   └── index.astro
-│   │   └── portfolio.astro
+│   │   ├── index.astro
+│   │   ├── portfolio.astro
 │   │   └── test.astro
-│   ├── styles
-│   │   └── global.css
-└── .gitignore
-└── astro.config.mjs
-└── package.json
-└── README.md
+│   └── styles
+│        └── global.css
+├── .gitignore
+├── astro.config.mjs
+├── package.json
+├── README.md
 └── tsconfig.json
 ```
 
