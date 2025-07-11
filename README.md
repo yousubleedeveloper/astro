@@ -35,7 +35,7 @@ Inside of your Astro project, you'll see the following folders and files:
 │   │   ├── portfolio.astro
 │   │   └── test.astro
 │   └── styles
-│        └── global.css
+│       └── global.css
 ├── .gitignore
 ├── astro.config.mjs
 ├── package.json
