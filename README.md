@@ -23,13 +23,24 @@ Inside of your Astro project, you'll see the following folders and files:
 ├── src
 │   ├── assets
 │   │   └── astro.svg
+│   │   └── background.svg
 │   ├── components
+│   │   └── Portfolio.astro
+│   │   └── Test.astro
 │   │   └── Welcome.astro
 │   ├── layouts
 │   │   └── Layout.astro
 │   └── pages
-│       └── index.astro
+│   │   └── index.astro
+│   │   └── portfolio.astro
+│   │   └── test.astro
+│   ├── styles
+│   │   └── global.css
+└── .gitignore
+└── astro.config.mjs
 └── package.json
+└── README.md
+└── tsconfig.json
 ```
 
 To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
