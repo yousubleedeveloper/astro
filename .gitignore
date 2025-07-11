@@ -25,6 +25,7 @@ pnpm-debug.log*
 
 # vscode setting folder
 .vscode/
+.vscode/
 
 # base
 package-lock.json
